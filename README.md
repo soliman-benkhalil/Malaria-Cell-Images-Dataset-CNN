@@ -5,10 +5,8 @@ This project implements a Convolutional Neural Network (CNN) for detecting malar
 
 ## Dataset
 The dataset consists of cell images categorized into two classes:
-- Parasitized: Cells infected with malaria
-- Uninfected: Healthy cells
-
-Dataset source: `/kaggle/input/cell-images-for-detecting-malaria/cell_images`
+- Parasitized: infected
+- Uninfected: Uninfected
 
 ## Model Architecture
 - CNN with 2 convolutional layers
